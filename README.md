@@ -20,7 +20,7 @@ In addition to my academic pursuits, I'm enrolled in **Full Stack Development** 
 - I love exploring the reasons behind setting up complex networks, like **Wide Area Networks** (WAN).
 
 ### Let's Connect:
-- *LinkedIn:* linkedin.com/in/syed-aaliyan-ali-36310a22a
+- *LinkedIn:* https://www.linkedin.com/in/syed-aaliyan-ali-36310a22a/
 - *Email:* techaaliyan@gmail.com
 
 Feel free to check out my repositories, and let’s collaborate on exciting projects!
